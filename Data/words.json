@@ -1,0 +1,307 @@
+[
+  {
+    "id": "w1",
+    "word": "Abrupt",
+    "partOfSpeech": "Adj",
+    "meaning": "Sudden and unexpected in nature",
+    "complexity": 3,
+    "academicSynonym": "Impetus",
+    "defaultLevel": 1,
+    "example": "There was an abrupt change in the weather."
+  },
+  {
+    "id": "w2",
+    "word": "Abundant",
+    "partOfSpeech": "Adj",
+    "meaning": "Plentiful; more than enough",
+    "complexity": 4,
+    "academicSynonym": "Plentiful",
+    "defaultLevel": 1,
+    "example": "There is an abundant supply of fresh water."
+  },
+  {
+    "id": "w3",
+    "word": "Accelerate",
+    "partOfSpeech": "Verb",
+    "meaning": "To increase in speed",
+    "complexity": 5,
+    "academicSynonym": "Hasten",
+    "defaultLevel": 1,
+    "example": "The car accelerated as it went down the hill."
+  },
+  {
+    "id": "w4",
+    "word": "Adapt",
+    "partOfSpeech": "Verb",
+    "meaning": "To adjust to new conditions",
+    "complexity": 6,
+    "academicSynonym": "Adjust",
+    "defaultLevel": 1,
+    "example": "Animals have to adapt to their environment to survive."
+  },
+  {
+    "id": "w5",
+    "word": "Aggravate",
+    "partOfSpeech": "Verb",
+    "meaning": "To make worse or more severe",
+    "complexity": 7,
+    "academicSynonym": "Exacerbate",
+    "defaultLevel": 1,
+    "example": "Stress can aggravate health problems."
+  },
+
+  {
+    "id": "w6",
+    "word": "Ambiguous",
+    "partOfSpeech": "Adj",
+    "meaning": "Open to more than one interpretation",
+    "complexity": 4,
+    "academicSynonym": "Unclear",
+    "defaultLevel": 2,
+    "example": "The message was ambiguous and caused confusion."
+  },
+  {
+    "id": "w7",
+    "word": "Anticipate",
+    "partOfSpeech": "Verb",
+    "meaning": "To expect or predict",
+    "complexity": 5,
+    "academicSynonym": "Foresee",
+    "defaultLevel": 2,
+    "example": "I anticipated that there would be traffic, so I left early."
+  },
+  {
+    "id": "w8",
+    "word": "Apprehensive",
+    "partOfSpeech": "Adj",
+    "meaning": "Anxious or fearful about the future",
+    "complexity": 6,
+    "academicSynonym": "Worried",
+    "defaultLevel": 2,
+    "example": "She felt apprehensive about the job interview."
+  },
+  {
+    "id": "w9",
+    "word": "Arbitrary",
+    "partOfSpeech": "Adj",
+    "meaning": "Based on random choice or personal whim, rather than any reason or system",
+    "complexity": 7,
+    "academicSynonym": "Random",
+    "defaultLevel": 2,
+    "example": "The decision seemed arbitrary and unfair."
+  },
+  {
+    "id": "w10",
+    "word": "Assessment",
+    "partOfSpeech": "Noun",
+    "meaning": "The evaluation or estimation of the nature, quality, or ability of someone or something",
+    "complexity": 8,
+    "academicSynonym": "Evaluation",
+    "defaultLevel": 2,
+    "example": "Teachers use assessment to measure student progress."
+  },
+
+  {
+    "id": "w11",
+    "word": "Assume",
+    "partOfSpeech": "Verb",
+    "meaning": "To suppose to be the case, without proof",
+    "complexity": 5,
+    "academicSynonym": "Presume",
+    "defaultLevel": 3,
+    "example": "I assumed he would be there, but he wasn't."
+  },
+  {
+    "id": "w12",
+    "word": "Attribute",
+    "partOfSpeech": "Verb",
+    "meaning": "To regard something as being caused by someone or something",
+    "complexity": 6,
+    "academicSynonym": "Ascribe",
+    "defaultLevel": 3,
+    "example": "She attributes her success to hard work."
+  },
+  {
+    "id": "w13",
+    "word": "Authenticate",
+    "partOfSpeech": "Verb",
+    "meaning": "To prove or show something to be true, genuine, or valid",
+    "complexity": 7,
+    "academicSynonym": "Confirm",
+    "defaultLevel": 3,
+    "example": "The painting was authenticated as a genuine Picasso."
+  },
+  {
+    "id": "w14",
+    "word": "Biased",
+    "partOfSpeech": "Adj",
+    "meaning": "Unfairly prejudiced for or against someone or something",
+    "complexity": 8,
+    "academicSynonym": "Prejudiced",
+    "defaultLevel": 3,
+    "example": "The jury was biased against the defendant."
+  },
+  {
+    "id": "w15",
+    "word": "Coherent",
+    "partOfSpeech": "Adj",
+    "meaning": "Logical and consistent",
+    "complexity": 9,
+    "academicSynonym": "Logical",
+    "defaultLevel": 3,
+    "example": "His argument was coherent and persuasive."
+  },
+
+  {
+    "id": "w16",
+    "word": "Comply",
+    "partOfSpeech": "Verb",
+    "meaning": "To act in accordance with a wish or command",
+    "complexity": 6,
+    "academicSynonym": "Conform",
+    "defaultLevel": 4,
+    "example": "They refused to comply with the new rules."
+  },
+  {
+    "id": "w17",
+    "word": "Constitute",
+    "partOfSpeech": "Verb",
+    "meaning": "To be or be equivalent to something",
+    "complexity": 7,
+    "academicSynonym": "Represent",
+    "defaultLevel": 4,
+    "example": "These factors constitute a serious problem."
+  },
+  {
+    "id": "w18",
+    "word": "Contend",
+    "partOfSpeech": "Verb",
+    "meaning": "To assert something as a position in an argument",
+    "complexity": 8,
+    "academicSynonym": "Assert",
+    "defaultLevel": 4,
+    "example": "The author contends that globalization has both positive and negative effects."
+  },
+  {
+    "id": "w19",
+    "word": "Authenticate",
+    "partOfSpeech": "Verb",
+    "meaning": "To prove or show something to be true, genuine, or valid",
+    "complexity": 9,
+    "academicSynonym": "Confirm",
+    "defaultLevel": 4,
+    "example": "The painting was authenticated as a genuine Picasso."
+  },
+  {
+    "id": "w20",
+    "word": "Attribute",
+    "partOfSpeech": "Verb",
+    "meaning": "To regard something as being caused by someone or something",
+    "complexity": 10,
+    "academicSynonym": "Ascribe",
+    "defaultLevel": 4,
+    "example": "She attributes her success to hard work."
+  },
+
+  {
+    "id": "w21",
+    "word": "Ambiguous",
+    "partOfSpeech": "Adj",
+    "meaning": "Open to more than one interpretation",
+    "complexity": 7,
+    "academicSynonym": "Unclear",
+    "defaultLevel": 5,
+    "example": "The message was ambiguous and caused confusion."
+  },
+  {
+    "id": "w22",
+    "word": "Anticipate",
+    "partOfSpeech": "Verb",
+    "meaning": "To expect or predict",
+    "complexity": 8,
+    "academicSynonym": "Foresee",
+    "defaultLevel": 5,
+    "example": "I anticipated that there would be traffic, so I left early."
+  },
+  {
+    "id": "w23",
+    "word": "Apprehensive",
+    "partOfSpeech": "Adj",
+    "meaning": "Anxious or fearful about the future",
+    "complexity": 9,
+    "academicSynonym": "Worried",
+    "defaultLevel": 5,
+    "example": "She felt apprehensive about the job interview."
+  },
+  {
+    "id": "w24",
+    "word": "Arbitrary",
+    "partOfSpeech": "Adj",
+    "meaning": "Based on random choice or personal whim, rather than any reason or system",
+    "complexity": 10,
+    "academicSynonym": "Random",
+    "defaultLevel": 5,
+    "example": "The decision seemed arbitrary and unfair."
+  },
+  {
+    "id": "w25",
+    "word": "Assessment",
+    "partOfSpeech": "Noun",
+    "meaning": "The evaluation or estimation of the nature, quality, or ability of someone or something",
+    "complexity": 11,
+    "academicSynonym": "Evaluation",
+    "defaultLevel": 5,
+    "example": "Teachers use assessment to measure student progress."
+  },
+
+  {
+    "id": "w26",
+    "word": "Assume",
+    "partOfSpeech": "Verb",
+    "meaning": "To suppose to be the case, without proof",
+    "complexity": 8,
+    "academicSynonym": "Presume",
+    "defaultLevel": 6,
+    "example": "I assumed he would be there, but he wasn't."
+  },
+  {
+    "id": "w27",
+    "word": "Biased",
+    "partOfSpeech": "Adj",
+    "meaning": "Unfairly prejudiced for or against someone or something",
+    "complexity": 9,
+    "academicSynonym": "Prejudiced",
+    "defaultLevel": 6,
+    "example": "The jury was biased against the defendant."
+  },
+  {
+    "id": "w28",
+    "word": "Coherent",
+    "partOfSpeech": "Adj",
+    "meaning": "Logical and consistent",
+    "complexity": 10,
+    "academicSynonym": "Logical",
+    "defaultLevel": 6,
+    "example": "His argument was coherent and persuasive."
+  },
+  {
+    "id": "w29",
+    "word": "Comprehensive",
+    "partOfSpeech": "Adj",
+    "meaning": "Including or dealing with all or nearly all elements or aspects of something",
+    "complexity": 11,
+    "academicSynonym": "Thorough",
+    "defaultLevel": 6,
+    "example": "The book provides a comprehensive overview of the subject."
+  },
+  {
+    "id": "w30",
+    "word": "Constitute",
+    "partOfSpeech": "Verb",
+    "meaning": "To be or be equivalent to something",
+    "complexity": 12,
+    "academicSynonym": "Represent",
+    "defaultLevel": 6,
+    "example": "These factors constitute a serious problem."
+  }
+]

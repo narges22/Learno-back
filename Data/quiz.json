@@ -1,0 +1,115 @@
+[
+  {
+    "_id": "66016df31fa7ccd9b0653b9d",
+    "word": "Abundant",
+    "meaning": "Plentiful; more than enough",
+    "complexity": 4,
+    "academicSynonym": "Plentiful",
+    "example": "There is an abundant supply of fresh water.",
+    "__v": 0,
+    "createdAt": "2024-03-25T12:28:35.930Z",
+    "updatedAt": "2024-03-25T12:28:35.930Z"
+  },
+  {
+    "_id": "66016df31fa7ccd9b0653baf",
+    "word": "Attribute",
+    "meaning": "To regard something as being caused by someone or something",
+    "complexity": 10,
+    "academicSynonym": "Ascribe",
+    "example": "She attributes her success to hard work.",
+    "__v": 0,
+    "createdAt": "2024-03-25T12:28:35.931Z",
+    "updatedAt": "2024-03-25T12:28:35.931Z"
+  },
+  {
+    "_id": "66016df31fa7ccd9b0653bb5",
+    "word": "Assume",
+    "meaning": "To suppose to be the case, without proof",
+    "complexity": 8,
+    "academicSynonym": "Presume",
+    "example": "I assumed he would be there, but he wasn't.",
+    "__v": 0,
+    "createdAt": "2024-03-25T12:28:35.931Z",
+    "updatedAt": "2024-03-25T12:28:35.931Z"
+  },
+  {
+    "_id": "66016df31fa7ccd9b0653bb6",
+    "word": "Biased",
+    "meaning": "Unfairly prejudiced for or against someone or something",
+    "complexity": 9,
+    "academicSynonym": "Prejudiced",
+    "example": "The jury was biased against the defendant.",
+    "__v": 0,
+    "createdAt": "2024-03-25T12:28:35.931Z",
+    "updatedAt": "2024-03-25T12:28:35.931Z"
+  },
+
+  {
+    "_id": "66016df31fa7ccd9b0653ba8",
+    "word": "Authenticate",
+    "meaning": "To prove or show something to be true, genuine, or valid",
+    "complexity": 7,
+    "academicSynonym": "Confirm",
+    "example": "The painting was authenticated as a genuine Picasso.",
+    "__v": 0,
+    "createdAt": "2024-03-25T12:28:35.931Z",
+    "updatedAt": "2024-03-25T12:28:35.931Z"
+  },
+  {
+    "_id": "66016df31fa7ccd9b0653bad",
+    "word": "Contend",
+    "meaning": "To assert something as a position in an argument",
+    "complexity": 8,
+    "academicSynonym": "Assert",
+    "example": "The author contends that globalization has both positive and negative effects.",
+    "__v": 0,
+    "createdAt": "2024-03-25T12:28:35.931Z",
+    "updatedAt": "2024-03-25T12:28:35.931Z"
+  },
+
+  {
+    "_id": "66016df31fa7ccd9b0653ba2",
+    "word": "Anticipate",
+    "meaning": "To expect or predict",
+    "complexity": 5,
+    "academicSynonym": "Foresee",
+    "example": "I anticipated that there would be traffic, so I left early.",
+    "__v": 0,
+    "createdAt": "2024-03-25T12:28:35.930Z",
+    "updatedAt": "2024-03-25T12:28:35.930Z"
+  },
+
+  {
+    "_id": "66016df31fa7ccd9b0653bb2",
+    "word": "Apprehensive",
+    "meaning": "Anxious or fearful about the future",
+    "complexity": 9,
+    "academicSynonym": "Worried",
+    "example": "She felt apprehensive about the job interview.",
+    "__v": 0,
+    "createdAt": "2024-03-25T12:28:35.931Z",
+    "updatedAt": "2024-03-25T12:28:35.931Z"
+  },
+  {
+    "_id": "66016df31fa7ccd9b0653bb7",
+    "word": "Coherent",
+    "meaning": "Logical and consistent",
+    "complexity": 10,
+    "academicSynonym": "Logical",
+    "example": "His argument was coherent and persuasive.",
+    "__v": 0,
+    "createdAt": "2024-03-25T12:28:35.931Z",
+    "updatedAt": "2024-03-25T12:28:35.931Z"
+  },
+  {
+    "_id": "66016df31fa7ccd9b0653bb8",
+    "word": "Comprehensive",
+    "meaning": "Including or dealing with all or nearly all elements or aspects of something",
+    "complexity": 11,
+    "academicSynonym": "Thorough",
+    "example": "The book provides a comprehensive overview of the subject.",
+    "__v": 0,
+    "createdAt": "2024-03-25T12:28:35.931Z",
+    "updatedAt": "2024-03-25T12:28:35.931Z"
+  }
+]
