@@ -1,4 +1,8 @@
 {
     "appService.defaultWebAppToDeploy": "undefined/subscriptions/47025eec-5770-4ac7-9055-22e36fe1598e/resourceGroups/Learno-backend/providers/Microsoft.Web/sites/Learno-backend",
-    "appService.deploySubpath": "."
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
 }

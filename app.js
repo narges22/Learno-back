@@ -21,6 +21,12 @@ app.use(cors({ credentials: true }));
 app.use(express.json());
 app.use(cookieParser());
 
+app.get("/", async (req, res) => {
+  res.status(200).json({
+    message: "hello",
+  });
+});
+
 // connect to mongodb
 const DBUri =
   "mongodb+srv://nargesshaker229:PoGzdDe7jWyN0EFf@cluster0.ijqrqir.mongodb.net/test?retryWrites=true&w=majority&appName=Cluster0";
