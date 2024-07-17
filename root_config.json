@@ -1,0 +1,5 @@
+{
+    "name": "Application-1",
+    "provider_region": "aws-eu-west-1",
+    "deployment_model": "LOCAL"
+}
