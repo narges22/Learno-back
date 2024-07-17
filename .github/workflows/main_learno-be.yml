@@ -59,4 +59,4 @@ jobs:
           app-name: 'Learno-be'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C490667FB7EE423B8F98A71D55B8099F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C490667FB7EE423B8F98A71D55B8099}}
