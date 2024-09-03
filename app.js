@@ -4,7 +4,7 @@ import fs from "fs";
 import Vocab from "./models/vocabs.js";
 import User from "./models/User.js";
 import { insertData, readQuizData, addUserIfNotExists } from "./utils/index.js";
-// import { GenerateQuizDataAI, getNextLevel } from "./ai/index.js";
+import { GenerateQuizDataAI, getNextLevel } from "./ai/index.js";
 import cors from "cors";
 import { OAuth2Client } from "google-auth-library";
 import cookieParser from "cookie-parser";
@@ -65,24 +65,13 @@ app.get("/getQuiz", async (req, res) => {
   }
 });
 
-const chosenwords = [
-  { word: "Abundant" },
-  { word: "Assume" },
-  { word: "Apprehensive" },
-  { word: "Anticipate" },
-  { word: "Attribute" },
-  { word: "Authenticate" },
-  { word: "Biased" },
-  { word: "Coherent" },
-  { word: "Comprehensive" },
-  { word: "Contend" },
-];
+
 
 app.get("/words", async (req, res) => {
   try {
     const data = await Vocab.find();
 
-    // const chosenwords = await GenerateQuizDataAI(data);
+    const chosenwords = await GenerateQuizDataAI(data);
 
     const filtered = data.filter((r) => {
       console.log(chosenwords);
@@ -108,16 +97,9 @@ app.post("/getnextlevel", async (req, res) => {
   try {
     const user = await User.findOne({ token: token });
     if (user) {
-      // To avoid waisting token
-      // const nextLevel = await getNextLevel(user.words);
-      // return res.status(200).json({
-      //   nextLevel: JSON.parse(nextLevel),
-      // });
-
-      const nextLevel = await Vocab.find().limit(5);
-      console.log(nextLevel);
+      const nextLevel = await getNextLevel(user.words);
       return res.status(200).json({
-        nextLevel: { words: nextLevel },
+        nextLevel: JSON.parse(nextLevel),
       });
     } else {
       return res.status(404).json({ error: "User not found" });
